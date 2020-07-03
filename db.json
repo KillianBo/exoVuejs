@@ -1,0 +1,83 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"user": "admin",
+			"password": 1234
+		}
+	],
+	"produits": [
+		{
+			"id": "a",
+			"nom": "Produit A",
+			"marque": "Marque A",
+            "description": "Description du produit A",
+            "image": "https://cdn.pixabay.com/photo/2015/03/26/10/38/blue-691718_960_720.jpg",
+			"prix": 39.9,
+			"rating": 4.5
+		},
+		{
+			"id": "b",
+			"nom": "Produit B",
+			"marque": "Marque B",
+            "description": "Description du produit B",
+            "image": "https://cdn.pixabay.com/photo/2020/05/03/13/09/puppy-5124948_960_720.jpg",
+			"prix": 34,
+			"rating": 4
+		},
+		{
+			"id": "c",
+			"nom": "Produit C",
+			"marque": "Marque A",
+            "description": "Description du produit C",
+            "image": "https://cdn.pixabay.com/photo/2020/06/18/15/58/avenue-5314089_960_720.jpg",
+			"prix": 26.4,
+			"rating": 3
+		},
+		{
+			"id": "d",
+			"nom": "Produit D",
+			"marque": "Marque C",
+            "description": "Description du produit D",
+            "image": "https://cdn.pixabay.com/photo/2019/09/05/05/28/blue-4453129_960_720.jpg",
+			"prix": 85,
+			"rating": 4.5
+		},
+		{
+			"id": "e",
+			"nom": "Produit E",
+			"marque": "Marque D",
+            "description": "Description du produit E",
+            "image": "https://cdn.pixabay.com/photo/2020/06/29/17/41/meditate-5353620_960_720.jpg",
+			"prix": 46.3,
+			"rating": 3.5
+		},
+		{
+			"id": "f",
+			"nom": "Produit F",
+			"marque": "Marque B",
+            "description": "Description du produit F",
+            "image": "https://cdn.pixabay.com/photo/2020/03/12/22/23/greens-4926370_960_720.jpg",
+			"prix": 13,
+			"rating": 4
+		},
+		{
+			"id": "g",
+			"nom": "Produit G",
+			"marque": "Marque E",
+            "description": "Description du produit G",
+            "image": "https://cdn.pixabay.com/photo/2020/06/22/19/30/automobile-5330343_960_720.jpg",
+			"prix": 63.5,
+			"rating": 2.5
+		},
+		{
+			"id": "h",
+			"nom": "Produit H",
+			"marque": "Marque D",
+            "description": "Description du produit H",
+            "image": "https://cdn.pixabay.com/photo/2020/02/28/15/35/bird-4887736_960_720.jpg",
+			"prix": 9.7,
+			"rating": 3
+		}
+	]
+}
